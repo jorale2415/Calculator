@@ -5,7 +5,7 @@
 </div>
 <div class="skillLearned">
   <h2><strong>Skills learned</strong></h2>
-  <li>C# Programning</li>
+  <li>C# Programing</li>
   <li>Windows Form</li>
   <li>I also learned how to create a GitHub repository and a ReadMe file, this is my first time.</li>
 </div>
